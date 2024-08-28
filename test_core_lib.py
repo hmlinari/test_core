@@ -1,6 +1,6 @@
 
 def mul_by_2(a):
-    return a * 2
+    return a * 3
 
 def add(a, b):
     return a + b
